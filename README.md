@@ -51,3 +51,5 @@ Once emacs installed, run :
 git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 ```
 and follow the instructions, they are pretty straight forward
+
+[cool cheatsheet for emacs](https://courses.cs.washington.edu/courses/cse351/16wi/sections/1/Cheatsheet-emacs.pdf)
